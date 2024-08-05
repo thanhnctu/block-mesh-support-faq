@@ -1,4 +1,4 @@
-# block-mesh-support-faq
+# BlockMesh Network - Support FAQ
 
 ## Debug Connection Issues
 
