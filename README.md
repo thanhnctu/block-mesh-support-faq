@@ -11,4 +11,4 @@
 1. Go to `manage extensions` menu in `Chrome`.
 2. Click on BlockMesh Network extension `service worker`.
 3. Check the `console` and `network` tabs for errors.
-4. If there are errors, please send them to `support@blockmesh.xyz`.
+4. If there are errors, please send them to `support@blockmesh.xyz` , please include the extension `version` in the email.
