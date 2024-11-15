@@ -1,6 +1,6 @@
 # Login Issues
 
-If you're having an issue connecting to the extension/CLI/dashboard/etc. (as exxample in the image below).
+If you're having an issue connecting to the extension/CLI/dashboard/etc. (as example in the image below).
 
 ![image](https://github.com/user-attachments/assets/982abf7d-5248-4665-9bf5-4470d7e0666c)
 
@@ -8,7 +8,7 @@ Please follow these steps:
 
 1. `Logout` by going to https://app.blockmesh.xyz/logout .
 2. Go to `Reset Password` : https://app.blockmesh.xyz/reset_password .
-3. Insert you email and click `submit`.
+3. Insert your email and click `submit`.
 4. Go to your email, and click the link you receive.
 5. Fill in the details and click `submit`.
 
