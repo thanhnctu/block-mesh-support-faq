@@ -10,7 +10,8 @@
 7. For `Proof Of Humanity` help go to [proof of humanity](https://github.com/block-mesh/block-mesh-support-faq/blob/main/PROOF_OF_HUMANITY.md) .
 8. For `Ranking Perks` go to [ranking perks](https://github.com/block-mesh/block-mesh-support-faq/blob/main/RANKING_PERK.md) .
 9. For `Social Scraping` go to [Social Scarping - Alpha](https://github.com/block-mesh/block-mesh-support-faq/blob/main/SOCIAL_SCRAPING.md) .
-10. For `Twitter` persk go to [Twitter Perks](https://github.com/block-mesh/block-mesh-support-faq/blob/main/TWITTER_PERK.md) .
+10. For `Twitter` perks go to [Twitter Perks](https://github.com/block-mesh/block-mesh-support-faq/blob/main/TWITTER_PERK.md) .
+11. For `Refrral Bonus go to [Referral Bonus](https://github.com/block-mesh/block-mesh-support-faq/blob/main/REF_BONUS.md) .
 
 ## Tickets
 If none of these help, open a ticket at [support ticket portal](https://blockmesh.atlassian.net/servicedesk/customer/portals) .
