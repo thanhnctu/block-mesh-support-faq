@@ -1,4 +1,4 @@
-# Social Scraping
+# Social Scraping - ALPHA release
 
 * Make sure you're registered and install our [extension](https://extension.blockmesh.xyz)
 
@@ -12,7 +12,7 @@
 
 ![image](https://github.com/user-attachments/assets/80ebe2ad-67fc-4f95-b1b1-f67d2645f98c)
 
-3. Paste the following code in the `console` , and leave it alone.
+3. Paste the following code in the `console` , and leave it alone (we'll add this as a button in the extension next update).
 
 ```javascript
 var scrollDistance = 800;
@@ -36,6 +36,7 @@ var scrollInterval = setInterval(function() {
 ## More Info
 
 * We will post details on specific accounts with higher value.
+  When we post about them, go to their profile and apply the script above and let it run in the background in a seperate tab.
   
 * You can also use Twitter search for example to find older tweets:
   https://x.com/search?q=%28from%3A%40elonmusk%29+until%3A2023-02-01+since%3A2023-01-01&src=typed_query&f=top
