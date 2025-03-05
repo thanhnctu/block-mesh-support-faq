@@ -5,6 +5,10 @@
 
 (2) [Founder](https://x.com/__OhadDahan__)
 
+(3) [Xeno](https://x.com/Xenopus_v1)
+
+(4) [WootzApp](https://x.com/WootzApp)
+
 * Go to [Perks](https://app.blockmesh.xyz/ui/perks) page
 
 ![image](https://github.com/user-attachments/assets/bb861138-06ff-49b1-bf82-caed253b2359)
