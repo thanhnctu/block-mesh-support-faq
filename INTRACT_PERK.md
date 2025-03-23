@@ -12,3 +12,16 @@
 * Refresh the page.
 * Check the perk list.
 
+## How to connect email in Intract
+
+![image](https://github.com/user-attachments/assets/8653e03a-64b7-46a3-a0b6-42d2da224115)
+
+![image](https://github.com/user-attachments/assets/d0cae619-9f8e-4fa6-89ba-127133dd6bdd)
+
+1. Go to Intract
+2. Look for Account Connected
+3. Click the + icon
+4. Scroll up or down and look for "Email"
+5. Connect email and send OTP
+6. Submit OTP and verified the connection.
+
