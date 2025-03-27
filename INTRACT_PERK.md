@@ -31,6 +31,7 @@ This means your email isn't connected (registered isn't enough).
 ## How to fix: User doesn't belong to this enterprise
 
 This means you're registered to Intract but you haven't went through [BlockMesh Network - Intract page](https://quest.intract.io/project/6532e81854ff44c8a3b2c1d58dd68bd3).
+
 To fix this:
 
 1. Go to [BlockMesh Network - Intract page](https://quest.intract.io/project/6532e81854ff44c8a3b2c1d58dd68bd3) .
