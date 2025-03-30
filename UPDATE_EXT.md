@@ -1,6 +1,6 @@
 # How to update extension version
 
-[Tutorial Video](https://www.youtube.com/watch?v=QnZynW3ItO0)
+[![Tutorial Video](https://img.youtube.com/vi/QnZynW3ItO0/0.jpg)](https://www.youtube.com/watch?v=QnZynW3ItO0)
 
 1. Click on the exensions button.
 
